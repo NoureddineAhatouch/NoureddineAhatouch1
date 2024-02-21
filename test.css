@@ -1,0 +1,21 @@
+header{
+ text-align: center;
+}
+.image_person{
+    position: relative;
+    left: 40%;
+    top: 10%;
+    border: 1px solid red;
+    width: 100px;
+    height: 130px;
+}
+.image_person img {
+    width: 100%;
+    height: 100%;
+}
+.les_donnes{
+    margin-top: 10px;
+    border: 3px double red;
+    padding-left:40% ;
+    background-color: rgb(0, 255, 200);
+}
